@@ -1,6 +1,6 @@
 # Learned-Model
-Train
+#Train
 python train.py
 
-Test
+#Test
 python test.py
