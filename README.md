@@ -3,6 +3,7 @@
 python train.py  
 Modify parameters in the training file for different sampling rates, epochs, etc.  
 The trained model will be saved in the folder you defined.
+The trained model is available at https://drive.google.com/file/d/1SjDYfDlI672gd2axi9wcE7ABlGoMLtgC/view?usp=sharing.
 
 ## Test
 python test.py
